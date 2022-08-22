@@ -1,4 +1,4 @@
 # Notepad Tkinter
 
-## 🔗 Links
-[![Hero Code](https://i.ytimg.com/vi/cMWNwJndur0/sddefault.jpg)](https://www.youtube.com/watch?v=cMWNwJndur0)
+## 🔗 Links Video YouTube
+[![Hero Code](https://ibb.co/26PNvGm)](https://www.youtube.com/watch?v=cMWNwJndur0)
